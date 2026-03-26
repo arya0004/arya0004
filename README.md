@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Arya Manve
-
-🎓 B.Tech AI & Data Science Student  
-
-## 🚀 About Me
-
 I am a passionate developer interested in building scalable, data-driven systems.  
 I enjoy solving real-world problems using AI, data analytics, and software engineering.
-
 
 ## 💼 Experience
 
@@ -34,13 +28,3 @@ I enjoy solving real-world problems using AI, data analytics, and software engin
 - Finalist – Odoo IIT Gandhinagar Hackathon  
 - NVIDIA Certification – AI Anomaly Detection  
 
----
-
-## 📫 Contact
-
-📧 arya.manve23@vit.edu  
-🔗 [GitHub](https://github.com/arya0004)
-
----
-
-⭐ *Always open to learning, building, and collaborating!*
