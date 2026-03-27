@@ -8,7 +8,7 @@ I enjoy solving real-world problems using AI, data analytics, and software engin
   - Built a production-grade Flutter application
   - Worked on architecture, backend integration, and deployment
 
-- **Core Team – TEDxVITPune**
+- **Team – TEDxVITPune**
   - Managed large-scale events (250+ attendees)
   - Coordinated teams and operations
 
